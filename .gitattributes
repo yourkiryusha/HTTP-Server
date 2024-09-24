@@ -1,0 +1,6 @@
+*.js crlf=input
+*.mjs crlf=input
+*.cjs crlf=input
+*.js eol=lf
+*.mjs eol=lf
+*.cjs eol=lf
